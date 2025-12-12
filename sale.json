@@ -1,0 +1,21 @@
+[
+  {
+    "invoice_number": "INV-001",
+    "product_name": "Galaxy A-17",
+    "quantity": 1,
+    "unit_price": 20000,
+    "total": 20000,
+    "payment_method": "CASH",
+    "date": "2025-12-13"
+  },
+
+  {
+    "invoice_number": "INV-002",
+    "product_name": "Oppo Reno-15",
+    "quantity": 1,
+    "unit_price": 25000,
+    "total": 25000,
+    "payment_method": "CASH",
+    "date": "2025-12-12"
+  }
+]

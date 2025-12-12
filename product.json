@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Galaxy A-17",
+    "price": 20000,
+    "stock": 20
+  },
+  {
+    "name": "Oppo Reno 15",
+    "price": 30000,
+    "stock": 15
+  }
+]
